@@ -1,0 +1,6 @@
+name: AeroLauncher
+version: '${project.version}'
+main: net.aerotux.aerolauncher.AeroLauncher
+api-version: '1.20'
+authors: [Aerotux]
+description: A light-weight rocket launcher plugin
